@@ -4,5 +4,10 @@
     <string name="app_name">CustomViewAndFragment</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="back">Back</string>
+    <string name="title_text">Title Text</string>
+    <string name="edit">Edit</string>
+    <string name="type_hint">Type something here</string>
+    <string name="send">Send</string>
 
 </resources>
